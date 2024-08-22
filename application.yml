@@ -4,13 +4,14 @@ spring:
     - dev
 ---
 spring:
-  profiles: dev #¿ª·¢»·¾³
+  profiles: dev #å¼€å‘ç¯å¢ƒ
   application:
     name: servicecloud-config-wzb-dev
 ---
 spring:
-  profiles: test #²âÊÔ»·¾³
+  profiles: test #æµ‹è¯•ç¯å¢ƒ
   application:
     name: servicecloud-config-wzb-test
-# Çë±£´æÎªUTF-8¸ñÊ½    
-# ·ÖÖ§feature
+# è¯·ä¿å­˜ä¸ºUTF-8æ ¼å¼    
+# åˆ†æ”¯feature001
+#githubæœåŠ¡å™¨ä¸Šä¼ 
